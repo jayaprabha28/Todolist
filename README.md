@@ -4,18 +4,18 @@ This project is a basic user management system that allows users to create, upda
 
 #Features
 --------------------------
-User management (Add, Update, Delete users)
-Frontend built with React and Redux
-RESTful routes using react-router-dom
-Bootstrap for styling
-Backend integration (if needed for further API functionality)
+* User management (Add, Update, Delete users)
+* Frontend built with React and Redux
+* RESTful routes using react-router-dom
+* Bootstrap for styling
+* Backend integration (if needed for further API functionality)
 
 #Technologies
 -------------------
-Frontend: React, Redux, Bootstrap, React Router DOM
-State Management: Redux Toolkit
-Package Manager: npm/yarn
-CSS: Custom and Bootstrap CSS
+* Frontend: React, Redux, Bootstrap, React Router DOM
+* State Management: Redux Toolkit
+* Package Manager: npm/yarn
+* CSS: Custom and Bootstrap CSS
 
 #Prerequisites
 --------------------------
@@ -25,10 +25,10 @@ Basic understanding of React, Redux, and JavaScript
 
 #Installed Applications/Packages
 -------------------------------------
-React (create-react-app)
-Redux (@reduxjs/toolkit, react-redux)
-React Router (react-router-dom)
-Bootstrap (bootstrap)
+* React (create-react-app)
+* Redux (@reduxjs/toolkit, react-redux)
+* React Router (react-router-dom)
+* Bootstrap (bootstrap)
 
 #Commands Installed
 -------------------
